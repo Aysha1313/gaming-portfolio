@@ -65,8 +65,8 @@ export default function About() {
 
             <div className="space-y-6 text-zinc-400 font-light text-base leading-relaxed font-sans">
               <p>
-                My name is <strong className="text-white font-medium">AYSHA FIDHA P</strong>. I am a dedicated 
-                <strong className="text-white font-medium">Game Developer and Systems Engineer</strong> currently pursuing my 
+                My name is <strong className="text-white font-medium">AYSHA FIDHA P</strong>. I am a dedicated{" "}
+                <strong className="text-white font-medium">Game Developer and Systems Engineer</strong> currently pursuing my{" "}
                 B.Tech in Computer Science and Engineering at <strong className="text-white font-medium">Model Engineering College</strong>.
               </p>
               
@@ -75,7 +75,7 @@ export default function About() {
               </p>
               
               <p>
-                Driven by code excellence and performance optimization, I contribute to industry-standard game engines and complex game systems. I am actively seeking 
+                Driven by code excellence and performance optimization, I contribute to industry-standard game engines and complex game systems. I am actively seeking{" "}
                 <strong className="text-white font-medium">game development roles</strong> where I can contribute to engine optimization, gameplay programming, or graphics systems.
               </p>
             </div>
